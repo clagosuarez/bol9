@@ -15,9 +15,9 @@ public class Bol9_6 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Empresa a = new Empresa();
-        a.pedirDatos();
-        a.mostrarDatos();
+        Empresa facebok = new Empresa();
+        facebok.pedirDatos();
+        facebok.mostrarDatos();
         
     }
     
